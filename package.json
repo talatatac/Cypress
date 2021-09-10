@@ -1,0 +1,15 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "description": "samplem cypress",
+  "main": "index.js",
+  "author": "Talat Ataç",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+     "cypress": "./node_modules/.bin/cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
